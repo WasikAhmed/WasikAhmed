@@ -1,6 +1,69 @@
 # 💫 About Me:
-# Hi, I'm Wasik Ahmed Apon! 👋<br><br>## About Me<br>I'm an engineering student at American International University-Bangladesh with a passion for coding and problem-solving. Currently, I'm focused on learning and mastering algorithms. I'm also exploring web development with ASP.NET Core. In my free time, I enjoy playing video games and watching movies.<br><br>## What I'm Currently Working On<br>- 🖥️ Practicing algorithms, data structures, and STL using C++.<br>- 🧩 Solving problems on platforms like Codeforces and LeetCode to improve my problem-solving skills.<br>- 🌐 Exploring web development by working on small projects using ASP.NET Core.<br>- 🚀 Reviving my knowledge in fundamentals, data structures, and algorithm implementation in C++, Java, and Python.<br>- 🤝 Collaborating with others on repositories to streamline project deployment across different machines.<br><br>## What I'm Looking to Collaborate On<br>I'm open to collaborating on:<br>- 🤖 Competitive programming challenges.<br>- 💻 Web development projects using ASP.NET Core.<br>- ☕ Java-based projects.<br>- 🛠️ Optimizing and refactoring code in existing repositories.<br><br>## What I Need Help With<br>I'm seeking assistance with:<br>- 🔄 Learning and mastering algorithms. I'm looking for mentors and collaborators to help me improve in this area.<br>- 🌐 Collaborative web development using ASP.NET Core.<br>- 🔧 Collaborative coding projects in Java.<br>- 🤖 Optimizing and improving code efficiency in my repositories.<br><br>## What I'm Currently Learning<br>I'm actively learning:<br>- 📊 Algorithms and advanced data structures.<br>- 🌐 Web development with ASP.NET Core.<br><br>## Ask Me About<br>Feel free to reach out if you'd like to discuss:<br>- 📚 Algorithms and data structures.<br>- 💻 Web development with ASP.NET Core.<br>- ☕ Java development.<br>- 🎮 Video and online games.<br>- 🎥 Movies.<br><br>## Fun Fact<br>I enjoy a good gaming session to relax after coding. Let's connect and discuss code, games, movies, or anything tech-related!
 
+# Hi, I'm Wasik Ahmed Apon! 👋
+<br><br>
+
+## About Me
+<br>
+<small>
+I'm an engineering student at American International University-Bangladesh with a passion for coding and problem-solving. Currently, I'm focused on learning and mastering algorithms. I'm also exploring web development with ASP.NET Core. In my free time, I enjoy playing video games and watching movies.
+</small><br><br>
+
+## What I'm Currently Working On
+<br>
+<small>
+- 🖥️ Practicing algorithms, data structures, and STL using C++.<br>
+- 🧩 Solving problems on platforms like Codeforces and LeetCode to improve my problem-solving skills.<br>
+- 🌐 Exploring web development by working on small projects using ASP.NET Core.<br>
+- 🚀 Reviving my knowledge in fundamentals, data structures, and algorithm implementation in C++, Java, and Python.<br>
+- 🤝 Collaborating with others on repositories to streamline project deployment across different machines.<br>
+</small><br><br>
+
+## What I'm Looking to Collaborate On
+<small>
+<br>
+I'm open to collaborating on:<br>
+- 🤖 Competitive programming challenges.<br>
+- 💻 Web development projects using ASP.NET Core.<br>
+- ☕ Java-based projects.<br>
+- 🛠️ Optimizing and refactoring code in existing repositories.<br>
+</small><br><br>
+
+## What I Need Help With
+<small>
+<br>
+I'm seeking assistance with:<br>
+- 🔄 Learning and mastering algorithms. I'm looking for mentors and collaborators to help me improve in this area.<br>
+- 🌐 Collaborative web development using ASP.NET Core.<br>
+- 🔧 Collaborative coding projects in Java.<br>
+- 🤖 Optimizing and improving code efficiency in my repositories.<br>
+</small><br><br>
+
+## What I'm Currently Learning
+<small>
+<br>
+I'm actively learning:<br>
+- 📊 Algorithms and advanced data structures.<br>
+- 🌐 Web development with ASP.NET Core.<br>
+</small><br><br>
+
+## Ask Me About
+<small>
+<br>
+Feel free to reach out if you'd like to discuss:<br>
+- 📚 Algorithms and data structures.<br>
+- 💻 Web development with ASP.NET Core.<br>
+- ☕ Java development.<br>
+- 🎮 Video and online games.<br>
+- 🎥 Movies.<br>
+</small><br><br>
+
+## Fun Fact
+<small>
+<br>
+I enjoy a good gaming session to relax after coding. Let's connect and discuss code, games, movies, or anything tech-related!
+</small>
+<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrwasik.ahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wasikahmed) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20006965) 
@@ -26,6 +89,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WasikAhmed&icon=5&color=3)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wasikahmedapon)
